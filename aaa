@@ -3,5 +3,9 @@ public class abserver
 {
 
   sid = 123;
+
 pid = 456;
+
+  sname = "zhangsan";
+
 }
